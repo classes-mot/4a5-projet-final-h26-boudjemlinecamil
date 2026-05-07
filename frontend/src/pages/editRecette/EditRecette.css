@@ -1,0 +1,14 @@
+.edit-recette-page {
+  padding: 20px;
+}
+
+.edit-recette-page h1 {
+  text-align: center;
+}
+
+.edit-recette-page > button {
+  display: block;
+  margin: 16px auto;
+  padding: 8px 12px;
+  cursor: pointer;
+}

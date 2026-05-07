@@ -1,0 +1,33 @@
+.inscription-page {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.inscription-page h1 {
+  text-align: center;
+}
+
+.inscription-page form div {
+  margin-bottom: 12px;
+}
+
+.inscription-page label {
+  display: block;
+  margin-bottom: 6px;
+}
+
+.inscription-page input {
+  width: 100%;
+  padding: 8px;
+}
+
+.inscription-page button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.inscription-page a {
+  display: block;
+  margin-top: 16px;
+}

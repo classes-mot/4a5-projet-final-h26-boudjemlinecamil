@@ -1,0 +1,23 @@
+.recette-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.recette-form div {
+  margin-bottom: 12px;
+}
+
+.recette-form label {
+  display: block;
+  margin-bottom: 6px;
+}
+
+.recette-form input {
+  width: 100%;
+  padding: 8px;
+}
+
+.recette-form button {
+  padding: 8px 12px;
+  cursor: pointer;
+}

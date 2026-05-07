@@ -1,0 +1,33 @@
+.login-page {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.login-page h1 {
+  text-align: center;
+}
+
+.login-page form div {
+  margin-bottom: 12px;
+}
+
+.login-page label {
+  display: block;
+  margin-bottom: 6px;
+}
+
+.login-page input {
+  width: 100%;
+  padding: 8px;
+}
+
+.login-page button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.login-page a {
+  display: block;
+  margin-top: 16px;
+}
