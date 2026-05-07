@@ -8,7 +8,7 @@ import Footer from './components/footer/Footer'
 import ListeRecettes from './pages/listeRecettes/ListeRecettes'
 import AjouterRecette from './pages/ajouterRecette/AjouterRecette'
 import EditRecette from './pages/editRecette/EditRecette'
-import Login from './pages/login/Login'
+import Login from './pages/login/login'
 import Inscription from './pages/inscription/Inscription'
 import NotFound from './pages/404/NotFound'
 
